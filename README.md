@@ -7,4 +7,6 @@
 20181225《在飞Android Kotlin快速入门-扩展函数、枚举篇6》
 https://blog.csdn.net/pangzaifei/article/details/85231820 </br>
 20190111《在飞Android Kotlin快速入门-基础篇.zip》https://blog.csdn.net/pangzaifei/article/details/85338620 </br>
+20190121 《Android Kotlin 快速入门?问号与android studio支持kotlin开发环境》https://blog.csdn.net/pangzaifei/article/details/86497282 </br>
+20190121 《Android Kotlin-百度Dap项目实战》 https://blog.csdn.net/pangzaifei/article/details/86573422  </br>
 
